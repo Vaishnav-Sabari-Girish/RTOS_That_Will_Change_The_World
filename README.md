@@ -11,3 +11,7 @@ This is a RTOS that might change the world
 
 Access the Radicle Repo [here](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z2bvUSnEjhptjWT9pgTVLrEqv2Pg8)
 
+
+## Repository Details
+
+![image](repo_deets.png)
